@@ -5,9 +5,11 @@ Este repositório é parde de um estudo que analisa a atribuição de culpa pela
 ### Coleta e processamento 
 Os dados foram obtidos via web scrapping, conforme citado no artigo (upload em breve), os dados processados estão disponíveis em ```banco_tweets.csv```. Desses dados, 20% (cerca de 920 tweets) foram utilizado no _fine tunning_ do modelo, com BERTimbau, esse subset foi classificado segundindo os seguintes criérios:
 
-**Positivo:** postagens que afirmam que a entidade influenciou positivamente no combate à fraude, ou que negam a culpa da entidade 
-**Neutro:** postagens descritivas, que narram acontecimentos ou contam fatos.
-**Negativo:** postagens que culpam diretamente a entidade pela fraude 
+**Positivo:** postagens que afirmam que a entidade influenciou positivamente no combate à fraude, ou que negam a culpa da entidade;
+
+**Neutro:** postagens descritivas, que narram acontecimentos ou contam fatos;
+
+**Negativo:** postagens que culpam diretamente a entidade pela fraude.
 
 ### Modelo 
 O resultado final desta pesquisa foi a produção de um modelo de rede neutral, utilizado para Análise de sentimento baseada em entidade. As métricas do modelo estão expostas abaixo:
