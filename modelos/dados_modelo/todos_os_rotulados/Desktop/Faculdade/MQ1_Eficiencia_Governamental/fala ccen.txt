@@ -1,0 +1,14 @@
+1. Começar com a pergunta: 
+- Países mais democráticos são mais eficientes? 
+- Partindo disso este trabalho busca mensurar o impacto de indicadores democráticos na eficiência governamental de um país
+2. indicadores democráticos 
+- são variáveis que quantificam e qualificam a existência ou não de uma democracia 
+- um exemplo é o accountability que mede a capacidade que os cidadãos têm de responsabilizar os atores políticos por meio do voto por exemplo 
+3- Por outro lado foi necessário mensurar a eficiência governamental a partir do DEA 
+- Foi escolhido por preservar medidas comparativas que poderiam ser omitidas em uma técnica paramétrica 
+- Por isso a pesquisa utiliza dados somente de 2023 de 117 países 
+4. Diante disso, os resultados apontam que não, democracias não são mais eficientes
+- foi aplicado um modelo de regressão no qual a eficiência governamental foi a VD e 6 indicadores democráticos foram as variáveis explicativas 
+- Por conseguinte, os indicadores democráticos não demonstram impactar significativamente a eficiência governamental de um país (como pode ser observado pelos seus respectivos coeficientes de regressão expostos na tabela)
+- Argumentamos que países menos democráticos possuem maior facilidade em implementar reformas econômicas e políticas, diferentes de democracias que possuem um penoso sistema burocrático que dificulta a implementação de políticas públicas 
+5. Este trabalho conseguiu demonstrar que um avanço democrático pode custar alguma eficiência no governo, o que contribui para que as novas democracias que estão se alicerçando possam estruturar medidas institucionais que busquem corrigir este estrave trazido pela democracia. 
